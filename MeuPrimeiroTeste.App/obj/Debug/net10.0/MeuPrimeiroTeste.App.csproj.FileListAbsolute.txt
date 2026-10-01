@@ -1,0 +1,15 @@
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/bin/Debug/net10.0/MeuPrimeiroTeste.App
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/bin/Debug/net10.0/MeuPrimeiroTeste.App.deps.json
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/bin/Debug/net10.0/MeuPrimeiroTeste.App.runtimeconfig.json
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/bin/Debug/net10.0/MeuPrimeiroTeste.App.dll
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/bin/Debug/net10.0/MeuPrimeiroTeste.App.pdb
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.AssemblyInfoInputs.cache
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.AssemblyInfo.cs
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.csproj.CoreCompileInputs.cache
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.sourcelink.json
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.dll
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/refint/MeuPrimeiroTeste.App.dll
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.pdb
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/MeuPrimeiroTeste.App.genruntimeconfig.cache
+/workspaces/hello-world-xunit/MeuPrimeiroTeste.App/obj/Debug/net10.0/ref/MeuPrimeiroTeste.App.dll
